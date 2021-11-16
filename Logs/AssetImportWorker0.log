@@ -160,3 +160,27 @@ Received Import Request.
 Start importing Assets/Prefabs/Sphere.prefab using Guid(b9e5da1dd3c67804eb10e08c0ebf7cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afebbd1af1c8f6fa651b2097fa808345') in 0.666169 seconds 
   Import took 0.874920 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2899.141577 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be7b926044d0e6d72e82937e962fae0') in 0.028299 seconds 
+  Import took 0.077529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.276377 seconds.
+  path: Assets/EscenaCarlos.unity
+  artifactKey: Guid(e02abd2fcbe8ce34f944691fcdb194a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscenaCarlos.unity using Guid(e02abd2fcbe8ce34f944691fcdb194a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6eca81545be224bd2af99a5960c1744') in 0.019918 seconds 
+  Import took 0.076138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.962161 seconds.
+  path: Assets/EscenaOnandi.unity
+  artifactKey: Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscenaOnandi.unity using Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b1fbbf2e5c4ff81dae97a524f811b8') in 0.012394 seconds 
+  Import took 0.024831 seconds .
+
