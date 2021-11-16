@@ -176,3 +176,28 @@ Received Import Request.
 Start importing Assets/EscenaCarlos.unity using Guid(e02abd2fcbe8ce34f944691fcdb194a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f4ed4a57540b20d0d1bd55e8d3632e') in 0.035445 seconds 
   Import took 0.068523 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 620.509577 seconds.
+  path: Assets/EscenaOnandi.unity
+  artifactKey: Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscenaOnandi.unity using Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d2005b06fbb90ee839fb5bd38c7343') in 0.021049 seconds 
+  Import took 0.083467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.713846 seconds.
+  path: Assets/EscenaCarlos.unity
+  artifactKey: Guid(e02abd2fcbe8ce34f944691fcdb194a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscenaCarlos.unity using Guid(e02abd2fcbe8ce34f944691fcdb194a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec46ecc1c972a5e222d0c2613dfd4f34') in 0.014302 seconds 
+  Import took 0.052412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.964510 seconds.
+  path: Assets/EscenaOnandi.unity
+  artifactKey: Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscenaOnandi.unity using Guid(b72cd6f064924c84281640a75a693e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289eeafda86be331099d84531e4f271a') in 0.016470 seconds 
+  Import took 0.054880 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
