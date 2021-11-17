@@ -1,0 +1,1588 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 8108 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity Hub\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Alberth Gutiérrez/Desktop/RepoWorldDestruction
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60564
+Successfully changed project path to: C:/Users/Alberth Gutiérrez/Desktop/RepoWorldDestruction
+C:/Users/Alberth Gutiérrez/Desktop/RepoWorldDestruction
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 202.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity Hub/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Alberth Gutiérrez/Desktop/RepoWorldDestruction/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4054 MB
+    Driver:   25.20.100.6518
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity Hub/2020.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity Hub/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity Hub/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity Hub/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004403 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.696 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2697ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1323ms)
+			LoadAssemblies (127ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (397ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (367ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (18ms)
+				ProcessInitializeOnLoadAttributes (206ms)
+				ProcessInitializeOnLoadMethodAttributes (64ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.363 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2365ms)
+		BeginReloadAssembly (344ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1884ms)
+			LoadAssemblies (215ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (658ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (104ms)
+			SetupLoadedEditorAssemblies (689ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (525ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1492 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1939.
+Total: 6.186600 ms (FindLiveObjects: 0.261600 ms CreateObjectMapping: 0.099500 ms MarkObjects: 5.713500 ms  DeleteObjects: 0.109500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Destroyed_city_FREE
+  artifactKey: Guid(74c599c849daf394b9974b3b1b00ee16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE using Guid(74c599c849daf394b9974b3b1b00ee16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7456dad3d1946dc09bace26b5641ea') in 0.044889 seconds 
+  Import took 0.049529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012784 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_grassHR2 023d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(331333b51f0891d4984453edba77e052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_grassHR2 023d3aba195e4d26ee.terrainlayer using Guid(331333b51f0891d4984453edba77e052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94628bd614e29554842253eb25f83647') in 0.488751 seconds 
+  Import took 0.494397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_wrak_zedb956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(df85001a45e491949b0d8a8426def2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_wrak_zedb956af97c33fc3d7.terrainlayer using Guid(df85001a45e491949b0d8a8426def2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aba8358fa62874f8f1f52df887370de') in 0.031616 seconds 
+  Import took 0.036807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Destroyed_city_FREE/Models/otrepy.FBX
+  artifactKey: Guid(bf587c110cca37f40b346c9ff28fce29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/otrepy.FBX using Guid(bf587c110cca37f40b346c9ff28fce29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e056241573198e19eaf83e7e284ac9') in 2.184202 seconds 
+  Import took 2.214447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_ground_kaminky23d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(16fc047ff5b8b3c41808f9dec430b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_ground_kaminky23d3aba195e4d26ee.terrainlayer using Guid(16fc047ff5b8b3c41808f9dec430b325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6508c6c20abe547e9af5c4268a1a76') in 0.039462 seconds 
+  Import took 0.060615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Destroyed_city_FREE/Models
+  artifactKey: Guid(e752b1f6182b4fa4783995d453789828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models using Guid(e752b1f6182b4fa4783995d453789828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0c32f393f53a4503a03d57f9d07b76') in 0.029513 seconds 
+  Import took 0.040536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Destroyed_city_FREE/Models/troska_A.FBX
+  artifactKey: Guid(5447f016f83dfde47a5b78148735be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/troska_A.FBX using Guid(5447f016f83dfde47a5b78148735be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388788aa33e4c27f44f7e57cb34fb57c') in 0.164398 seconds 
+  Import took 0.176646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground 01b956af97c33fc3d7.terrainlayer
+  artifactKey: Guid(ee0b0cabd9c51be429e0a56c28871fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground 01b956af97c33fc3d7.terrainlayer using Guid(ee0b0cabd9c51be429e0a56c28871fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6ddffaa224c5509f2c3db641d3991e') in 0.070695 seconds 
+  Import took 0.080547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Destroyed_city_FREE/Models/wrak_steny.FBX
+  artifactKey: Guid(35822b9f61ef0b249bea5d4a893a22bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/wrak_steny.FBX using Guid(35822b9f61ef0b249bea5d4a893a22bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cb243aa56e98e39f56278baa3b8991') in 0.089899 seconds 
+  Import took 0.109121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Destroyed_city_FREE/Models/bet_skelet.FBX
+  artifactKey: Guid(e3c33f484ba1f9e4fb9e43d26361ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/bet_skelet.FBX using Guid(e3c33f484ba1f9e4fb9e43d26361ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af3e07357d749eae5e387781bcaa743') in 0.079161 seconds 
+  Import took 0.093563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.070763 seconds.
+  path: Assets/Destroyed_city_FREE/Models/Materials
+  artifactKey: Guid(82e94f12499d80741bf1360e05ecc803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/Materials using Guid(82e94f12499d80741bf1360e05ecc803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b682121c645cb804dd4c3625530996f') in 0.023121 seconds 
+  Import took 0.098016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.145608 seconds.
+  path: Assets/Destroyed_city_FREE/Models/Materials/beton_01.mat
+  artifactKey: Guid(3a43b0a1f29377e4a97c6374af39b6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/Materials/beton_01.mat using Guid(3a43b0a1f29377e4a97c6374af39b6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a4831cb73be574c050fccc267124db') in 0.096714 seconds 
+  Import took 0.103365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Destroyed_city_FREE/Models/Materials/otrepy.mat
+  artifactKey: Guid(b0312697cdac4714b98150a1bc0dbe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/Materials/otrepy.mat using Guid(b0312697cdac4714b98150a1bc0dbe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbb7ae97ca1ed7364a38eb1781c836c') in 0.050025 seconds 
+  Import took 0.057420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Destroyed_city_FREE/Models/Materials/wrak_zed.mat
+  artifactKey: Guid(ee667563a4f3ead4b95112ac3401d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Models/Materials/wrak_zed.mat using Guid(ee667563a4f3ead4b95112ac3401d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28420141c83a5070c53241230e8aed18') in 0.058287 seconds 
+  Import took 0.064123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.018542 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/wrak_zed.psd
+  artifactKey: Guid(f5274adb50c6f2a4cb16ed79e41d4f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/wrak_zed.psd using Guid(f5274adb50c6f2a4cb16ed79e41d4f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bc9484646586d8ec4eb553286d949c') in 0.217405 seconds 
+  Import took 0.226342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/wrak_zedn.jpg
+  artifactKey: Guid(4f271df11a6dc16478671e26fc84a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/wrak_zedn.jpg using Guid(4f271df11a6dc16478671e26fc84a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1fcd064ff76bd1231e7edbcf57a2d0') in 0.154974 seconds 
+  Import took 0.162218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.877928 seconds.
+  path: Assets/Destroyed_city_FREE/Prefabs/wrak_budova.prefab
+  artifactKey: Guid(19e3bec5d2084834e86823c680ab9eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Prefabs/wrak_budova.prefab using Guid(19e3bec5d2084834e86823c680ab9eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd321aa769dd218a0810283caa8d23fb6') in 0.806316 seconds 
+  Import took 0.841288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.348400 seconds.
+  path: Assets/Destroyed_city_FREE/Prefabs/Light Flares
+  artifactKey: Guid(e055da8c393cd7347a1a4720eb3d6855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Prefabs/Light Flares using Guid(e055da8c393cd7347a1a4720eb3d6855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd5240b1023a70ba1070aaec4da85e6') in 0.024598 seconds 
+  Import took 0.032557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056846 seconds.
+  path: Assets/Destroyed_city_FREE/Prefabs/Light Flares/Sun.flare
+  artifactKey: Guid(09ebe82dbd1113c3d000dc0b8d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Prefabs/Light Flares/Sun.flare using Guid(09ebe82dbd1113c3d000dc0b8d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe2f1b99b71faae42380c5d27249c63') in 0.016496 seconds 
+  Import took 0.027821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.392522 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes
+  artifactKey: Guid(613c0c6db1a11fe42b52a4113aa867ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes using Guid(613c0c6db1a11fe42b52a4113aa867ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9da3d8374a8db8391a14fb90b905a2') in 0.018409 seconds 
+  Import took 0.024852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.160917 seconds.
+  path: Assets/Destroyed_city_FREE/Prefabs
+  artifactKey: Guid(a5ca0e1c5a2c8884abf468dca1804211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Prefabs using Guid(a5ca0e1c5a2c8884abf468dca1804211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9ea20b0da6efbb646589d6ce1f82c6') in 0.022077 seconds 
+  Import took 0.028950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.320426 seconds.
+  path: Assets/Destroyed_city_FREE/Prefabs/wrak_budova.prefab
+  artifactKey: Guid(19e3bec5d2084834e86823c680ab9eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Prefabs/wrak_budova.prefab using Guid(19e3bec5d2084834e86823c680ab9eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e6131c8a8176b9b48c83ab0a987d39') in 0.064681 seconds 
+  Import took 0.074537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.423324 seconds.
+  path: Assets/Destroyed_city_FREE/Shaders
+  artifactKey: Guid(7460a3b4d27965f4294682c4b5608ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Shaders using Guid(7460a3b4d27965f4294682c4b5608ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c751a3c3e452bb9af061fe49f9e1defd') in 0.019828 seconds 
+  Import took 0.077637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.235424 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/Terrain destroyed_city.asset
+  artifactKey: Guid(a7464d9a0a8339e41b7a7b292819d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/Terrain destroyed_city.asset using Guid(a7464d9a0a8339e41b7a7b292819d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff140c34d92a729df6f18f3f4feef2a9') in 0.165013 seconds 
+  Import took 0.173454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.989790 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city.unity
+  artifactKey: Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city.unity using Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18864d7b0afe1d6fc564f8bd77f6d1d5') in 0.019567 seconds 
+  Import took 0.026554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.459281 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/Terrain destroyed_city.asset
+  artifactKey: Guid(a7464d9a0a8339e41b7a7b292819d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/Terrain destroyed_city.asset using Guid(a7464d9a0a8339e41b7a7b292819d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b49fa845fbb11f23ec30ffba456c94') in 0.376554 seconds 
+  Import took 0.418519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.141644 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city
+  artifactKey: Guid(36b4bac241937aa45a65f8a2805ce261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city using Guid(36b4bac241937aa45a65f8a2805ce261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c561866139eb16f03a57064201af55dc') in 0.030471 seconds 
+  Import took 0.042866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103890 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-0.exr
+  artifactKey: Guid(f2762cea7f740bc489a92dcb8759cfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-0.exr using Guid(f2762cea7f740bc489a92dcb8759cfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7256ec4014070863c2483ea603a4db27') in 0.125628 seconds 
+  Import took 0.164053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-6.exr
+  artifactKey: Guid(5bc2253b75b69fb46a8791a5c9bce972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-6.exr using Guid(5bc2253b75b69fb46a8791a5c9bce972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c10a4124268d0f85f753013613cdadc') in 0.092826 seconds 
+  Import took 0.104212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-5.exr
+  artifactKey: Guid(8f05800eba8ca8342964acc621ce1cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-5.exr using Guid(8f05800eba8ca8342964acc621ce1cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598725ff6229b8c7ae8d1ceacc1fdee1') in 0.080956 seconds 
+  Import took 0.092716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-0.exr
+  artifactKey: Guid(92100c10a874a3c4b8a36f9faa5137d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-0.exr using Guid(92100c10a874a3c4b8a36f9faa5137d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8db92b4da9dc0d39d020c14252885b') in 0.130541 seconds 
+  Import took 0.144660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-2.exr
+  artifactKey: Guid(5521a5af10eb7a1488540cd048588500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-2.exr using Guid(5521a5af10eb7a1488540cd048588500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e965564e51d654461f4b70fdbf25f67') in 0.110099 seconds 
+  Import took 0.118290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002101 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-6.exr
+  artifactKey: Guid(10069154d59c2624287cdaef8d72b3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-6.exr using Guid(10069154d59c2624287cdaef8d72b3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53764e69067458e369ce23cf74f80c94') in 0.066985 seconds 
+  Import took 0.074372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003301 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-1.exr
+  artifactKey: Guid(5a376b43b2e84f44f9a20162ec34c47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-1.exr using Guid(5a376b43b2e84f44f9a20162ec34c47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2380217d2263a2c48c60164975be54f') in 0.073106 seconds 
+  Import took 0.085450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000722 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-14.exr
+  artifactKey: Guid(600eccb082ffc824cb9ff0d0fd797c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-14.exr using Guid(600eccb082ffc824cb9ff0d0fd797c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5e55b84073ef0bd55a53cf49e5ec82') in 0.080393 seconds 
+  Import took 0.091040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-7.exr
+  artifactKey: Guid(f65cf460dbb050844828e4cc3e0cfe1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-7.exr using Guid(f65cf460dbb050844828e4cc3e0cfe1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9e664a36413088b46e16360af595f5') in 0.169242 seconds 
+  Import took 0.222451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004905 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-7.exr
+  artifactKey: Guid(e116ec9a42d3ff9449f77a447c766be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-7.exr using Guid(e116ec9a42d3ff9449f77a447c766be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd7c5060a498a94111437ad182b67460') in 0.342037 seconds 
+  Import took 0.363954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-11.exr
+  artifactKey: Guid(88dc04d91a640414283437599fa99295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-11.exr using Guid(88dc04d91a640414283437599fa99295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a5c0e9d6deb876b7e1cfd459a90a63') in 0.227770 seconds 
+  Import took 0.269891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-9.exr
+  artifactKey: Guid(1ee2eb8c59f47124fac14303638f5fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-9.exr using Guid(1ee2eb8c59f47124fac14303638f5fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f5fed20e65fb00057ff96b0b52b86a') in 0.156868 seconds 
+  Import took 0.172296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000750 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-12.exr
+  artifactKey: Guid(e352794484cca5d40821e95258892f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-12.exr using Guid(e352794484cca5d40821e95258892f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37c86a4ccfca29485d35d7c6bf9fa35') in 0.103550 seconds 
+  Import took 0.116484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001071 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-8.exr
+  artifactKey: Guid(95ba1a14c944bd24d8274375ee74ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-8.exr using Guid(95ba1a14c944bd24d8274375ee74ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b88505fac79e3954a7f010534d1a4a') in 0.068532 seconds 
+  Import took 0.081125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-13.exr
+  artifactKey: Guid(7ebba6401ad4b08428ac68107d46b47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-13.exr using Guid(7ebba6401ad4b08428ac68107d46b47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dda68ba433df0dde048e34a2ec4bdfc') in 0.070099 seconds 
+  Import took 0.081667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-10.exr
+  artifactKey: Guid(1b54b539798759949955c23b44b723de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-10.exr using Guid(1b54b539798759949955c23b44b723de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4dcaba3d5816c251329ae7a91b9c818') in 0.094051 seconds 
+  Import took 0.123011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-3.exr
+  artifactKey: Guid(8d15220e1ebcb1b4591fdf0aad07d24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-3.exr using Guid(8d15220e1ebcb1b4591fdf0aad07d24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7dc314e040cda4ca1d5433c46a92da') in 0.086456 seconds 
+  Import took 0.097290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-1.exr
+  artifactKey: Guid(3a4a5f17724633b4eac2e81614cba227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-1.exr using Guid(3a4a5f17724633b4eac2e81614cba227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5889b80ad0bf8fd470a5b06358927bc') in 0.095873 seconds 
+  Import took 0.119526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-15.exr
+  artifactKey: Guid(4ee251adfc7eeaf4eb4c4e48744d54ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-15.exr using Guid(4ee251adfc7eeaf4eb4c4e48744d54ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fb767b0c78e75d39dd81f09441fe6b') in 0.082662 seconds 
+  Import took 0.108731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003446 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-17.exr
+  artifactKey: Guid(4d2541c9ef05c2d4dbed99b3e22e543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-17.exr using Guid(4d2541c9ef05c2d4dbed99b3e22e543b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60c62395819c615dc58c362c0e6b66c') in 0.050339 seconds 
+  Import took 0.065004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-15.exr
+  artifactKey: Guid(48b56772ae61a4042a6047b619ef13a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-15.exr using Guid(48b56772ae61a4042a6047b619ef13a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf195424ed30923ad89f86934ce1673') in 0.076022 seconds 
+  Import took 0.090748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-11.exr
+  artifactKey: Guid(09459019ac8f1ca4c968b2f025416011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-11.exr using Guid(09459019ac8f1ca4c968b2f025416011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e5bc49a1c87533accb0abe252dad8a') in 0.058191 seconds 
+  Import took 0.075609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-17.exr
+  artifactKey: Guid(02ac7831bf5c7da4d993fb6b8bcd2140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-17.exr using Guid(02ac7831bf5c7da4d993fb6b8bcd2140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10120e4f4b3ab379bcd4de4dc0e3b85') in 0.117188 seconds 
+  Import took 0.132158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001513 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-2.exr
+  artifactKey: Guid(18d710b663f8ae14d843bdf35688e26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-2.exr using Guid(18d710b663f8ae14d843bdf35688e26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c44de0cf8a8356d2ffc0cd386c38ec') in 0.071399 seconds 
+  Import took 0.083905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000918 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-12.exr
+  artifactKey: Guid(92cd679ee785a1946a876724101c7a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-12.exr using Guid(92cd679ee785a1946a876724101c7a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b615491fbffa8ce1fe5f014d6fef1a2') in 0.057787 seconds 
+  Import took 0.079512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-14.exr
+  artifactKey: Guid(817def3ad1dc2224a946d865e9b84883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-14.exr using Guid(817def3ad1dc2224a946d865e9b84883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0972720a1624448aa34922b67b009644') in 0.080198 seconds 
+  Import took 0.098587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-4.exr
+  artifactKey: Guid(30126cc857fabbb4bac686985301d8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-4.exr using Guid(30126cc857fabbb4bac686985301d8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241247d9766ca965dac0b0c8964e41f3') in 0.081435 seconds 
+  Import took 0.092324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-9.exr
+  artifactKey: Guid(99087af4266aa01409503bf9d353da4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-9.exr using Guid(99087af4266aa01409503bf9d353da4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692e286955a9826e29a0410e054bf9e3') in 0.122937 seconds 
+  Import took 0.134689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-8.exr
+  artifactKey: Guid(2bf78c82aeb702948a640fc4728af0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-8.exr using Guid(2bf78c82aeb702948a640fc4728af0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a9fc24a4dbc084a546ba7405d3deff') in 0.125446 seconds 
+  Import took 0.152806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-4.exr
+  artifactKey: Guid(c60231e80a6603d4a9092aab70a5781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-4.exr using Guid(c60231e80a6603d4a9092aab70a5781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331ad109c49ee21a8e9f4131253fd732') in 0.099384 seconds 
+  Import took 0.128381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-3.exr
+  artifactKey: Guid(ecf59f8623142144cacf567100b47302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-3.exr using Guid(ecf59f8623142144cacf567100b47302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89693617cea0d32d6a1b8772e90369b6') in 0.074164 seconds 
+  Import took 0.092140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-16.exr
+  artifactKey: Guid(8cc29668558216345878100cb94f3691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapFar-16.exr using Guid(8cc29668558216345878100cb94f3691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4fd250382dbf458c6d480b7324ce17') in 0.401755 seconds 
+  Import took 0.413993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-13.exr
+  artifactKey: Guid(883171961a972ef42a4d4aa8575b7924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-13.exr using Guid(883171961a972ef42a4d4aa8575b7924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a902e5f4022fc43e28958f8e8b6c4079') in 0.119368 seconds 
+  Import took 0.187884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-5.exr
+  artifactKey: Guid(7eb9a5b597a5ca845b8baf54254c1c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-5.exr using Guid(7eb9a5b597a5ca845b8baf54254c1c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc5ae531946a819e25f3342ef9f4888') in 0.089690 seconds 
+  Import took 0.097169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-10.exr
+  artifactKey: Guid(6bfa8598e085cd544a4bc94d4cf09cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-10.exr using Guid(6bfa8598e085cd544a4bc94d4cf09cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fbd68fc662cb5409e555159c5e7df7') in 0.148814 seconds 
+  Import took 0.163253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-16.exr
+  artifactKey: Guid(493cfae2140b57d499570b8186f664a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city/LightmapNear-16.exr using Guid(493cfae2140b57d499570b8186f664a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65df3733e78ab7cbc730985453e73476') in 0.137377 seconds 
+  Import took 0.173670 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.742 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2742ms)
+		BeginReloadAssembly (306ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (77ms)
+		EndReloadAssembly (2291ms)
+			LoadAssemblies (315ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (798ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (130ms)
+			SetupLoadedEditorAssemblies (862ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (164ms)
+				ProcessInitializeOnLoadAttributes (623ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.4 MB.
+System memory in use after: 79.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 10.471000 ms (FindLiveObjects: 0.428400 ms CreateObjectMapping: 0.184000 ms MarkObjects: 9.281600 ms  DeleteObjects: 0.574100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1198.097813 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99251cf51f80bfbcb9339fed55bff867') in 0.066966 seconds 
+  Import took 0.081123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.657139 seconds.
+  path: Assets/Destroyed_city_FREE/Textures
+  artifactKey: Guid(8959ed25cd2546d4f9ad63c35c069166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures using Guid(8959ed25cd2546d4f9ad63c35c069166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2a2097fa14b320c410b841083a2a53') in 0.020538 seconds 
+  Import took 0.086362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.605950 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/beton_01.psd
+  artifactKey: Guid(90e69f873d9a0ea4984de801756b6a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/beton_01.psd using Guid(90e69f873d9a0ea4984de801756b6a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918430e62477e1cfa2c93c25e947cbdb') in 0.066982 seconds 
+  Import took 0.099170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/black.psd
+  artifactKey: Guid(8887e09c6cc70be438f928c9baa1127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/black.psd using Guid(8887e09c6cc70be438f928c9baa1127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d676488e982fd8e29f9d66413211152') in 0.043216 seconds 
+  Import took 0.048257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/grassHR2 02.jpg
+  artifactKey: Guid(6cc026e4f65a35f4d8bdb1470f28e5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/grassHR2 02.jpg using Guid(6cc026e4f65a35f4d8bdb1470f28e5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38838fb2152254b43337db87456867a8') in 0.037997 seconds 
+  Import took 0.043470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/beton_01n.jpg
+  artifactKey: Guid(e61358ec39887214d87467faa5d817d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/beton_01n.jpg using Guid(e61358ec39887214d87467faa5d817d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5015e0a43ac60f70d30432ba1d88b96e') in 0.061452 seconds 
+  Import took 0.066852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/PD_BnW.png
+  artifactKey: Guid(2e0c819413fae94439b449ac57ed2323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/PD_BnW.png using Guid(2e0c819413fae94439b449ac57ed2323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17bc4bd4e27bb6bd749c0d8ba8ef2b5') in 0.051088 seconds 
+  Import took 0.058262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/otrepy.tga
+  artifactKey: Guid(f3b14f4d181dc464c9b1f2c03a03b5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/otrepy.tga using Guid(f3b14f4d181dc464c9b1f2c03a03b5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ff91bdb86cac4b351392a38297429d') in 0.048113 seconds 
+  Import took 0.056702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/Ground 01.psd
+  artifactKey: Guid(9c8aea782614a524e9cb6d5fd11928bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/Ground 01.psd using Guid(9c8aea782614a524e9cb6d5fd11928bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebabe821d4884f914afe1305e97b92a') in 0.069524 seconds 
+  Import took 0.077409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000835 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/ground_kaminky2.psd
+  artifactKey: Guid(ccd7f51376e89f04eb3b41268375497c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/ground_kaminky2.psd using Guid(ccd7f51376e89f04eb3b41268375497c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be8c9fbd367356a3ad58af021f145c9') in 0.092976 seconds 
+  Import took 0.102207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.987853 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/Terrain Grass
+  artifactKey: Guid(3a7918ccaeeff5840a7715b64280b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/Terrain Grass using Guid(3a7918ccaeeff5840a7715b64280b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f6bd5470e598577140c96805cf1361') in 0.017563 seconds 
+  Import took 0.023180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081419 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/Terrain Grass/Grass.psd
+  artifactKey: Guid(5af0f1d78a576604b9b397d7e4d225c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/Terrain Grass/Grass.psd using Guid(5af0f1d78a576604b9b397d7e4d225c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93ea8568c30209d50e246d7bad9b4c8') in 0.045514 seconds 
+  Import took 0.081453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.593694 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/Terrain Grass/Materials
+  artifactKey: Guid(cc7a229dba438a54bb756ee8417c8df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/Terrain Grass/Materials using Guid(cc7a229dba438a54bb756ee8417c8df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864241de0734de78b84bb13d8e70e0e0') in 0.019989 seconds 
+  Import took 0.026654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121421 seconds.
+  path: Assets/Destroyed_city_FREE/Textures/Terrain Grass/Materials/Grass.mat
+  artifactKey: Guid(859852d993a8fb34b8ffac968cf85a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Textures/Terrain Grass/Materials/Grass.mat using Guid(859852d993a8fb34b8ffac968cf85a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fdc7aeb97d388848b18d9952f05bd9f') in 0.140498 seconds 
+  Import took 0.162766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.318316 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/black.mat
+  artifactKey: Guid(62dceb0648430ec47b255afd72dd9866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/black.mat using Guid(62dceb0648430ec47b255afd72dd9866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85d726916231a728abc86d71e7467ff') in 0.027356 seconds 
+  Import took 0.032862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/Ground 01.mat
+  artifactKey: Guid(9ac127a5b06b66f4db770ad6f4d75496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/Ground 01.mat using Guid(9ac127a5b06b66f4db770ad6f4d75496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725541ff9379d5efb7348c3502c434f4') in 0.038651 seconds 
+  Import took 0.044074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/ground_kaminky2.mat
+  artifactKey: Guid(0d429cdc7cf3f694cbb6595ce382f987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/ground_kaminky2.mat using Guid(0d429cdc7cf3f694cbb6595ce382f987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964e64492619889ea4a047ea9ff64012') in 0.051795 seconds 
+  Import took 0.056565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/wrak_zed.mat
+  artifactKey: Guid(a15cdc844bc567c4ab25011eaf86deb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/wrak_zed.mat using Guid(a15cdc844bc567c4ab25011eaf86deb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723dc439191ceebb4b1ff05582a939d0') in 0.044447 seconds 
+  Import took 0.050411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.816189 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets
+  artifactKey: Guid(ce3b25e5acc5b3143bffd0463770bf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets using Guid(ce3b25e5acc5b3143bffd0463770bf8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ffc6be813a67e457be396a5733209f') in 0.026190 seconds 
+  Import took 0.031974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.353335 seconds.
+  path: Assets/Destroyed_city_FREE/Materials
+  artifactKey: Guid(53d0e60842e2c6146a8598c28e4f2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials using Guid(53d0e60842e2c6146a8598c28e4f2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a23e3f0d74ced89c09db193effc7c2') in 0.009965 seconds 
+  Import took 0.020913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.896364 seconds.
+  path: Assets/Destroyed_city_FREE/Shaders/AlphaTest-DiffuseDoubleSide.shader
+  artifactKey: Guid(87a9617efc30b9542a629228f2cdc38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Shaders/AlphaTest-DiffuseDoubleSide.shader using Guid(87a9617efc30b9542a629228f2cdc38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6102dca65c26b7dfa680eb9d65be4222') in 0.034874 seconds 
+  Import took 0.050128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.688798 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Character Controllers
+  artifactKey: Guid(fdf979671feb8f44a98dfb0ae1f01ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Character Controllers using Guid(fdf979671feb8f44a98dfb0ae1f01ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c026df56a959817b24bae6f62d8525') in 0.073813 seconds 
+  Import took 0.085256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093931 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/First Person Controller.prefab
+  artifactKey: Guid(9d4133d5d30b644bd87802a347eaccbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/First Person Controller.prefab using Guid(9d4133d5d30b644bd87802a347eaccbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fadef375602b83c0875b3b665db303b3') in 0.052972 seconds 
+  Import took 0.101738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.431997 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/Sources
+  artifactKey: Guid(45fa70ede0431d14b96208d37666cbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/Sources using Guid(45fa70ede0431d14b96208d37666cbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9920675e64b32dc2d8955fae490e5c2') in 0.016877 seconds 
+  Import took 0.022126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.759416 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/Sources/Scripts
+  artifactKey: Guid(a3c5d42e7b18e8840bd0e3af8c0fba64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Character Controllers/Sources/Scripts using Guid(a3c5d42e7b18e8840bd0e3af8c0fba64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43cf0511f27219fe4fb69a9bdf27e348') in 0.017969 seconds 
+  Import took 0.023778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.085812 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Light Flares
+  artifactKey: Guid(3aeb506a2a6de30479eb1fa9ea04f037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Light Flares using Guid(3aeb506a2a6de30479eb1fa9ea04f037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1230dec9beede78c47e711c1fda2c4c') in 0.009565 seconds 
+  Import took 0.015184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.784929 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes
+  artifactKey: Guid(4f50d5c1711111f41bc1340040020654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes using Guid(4f50d5c1711111f41bc1340040020654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524abbda741760b19461ec6b9cd37aa6') in 0.022714 seconds 
+  Import took 0.028702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130361 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Sunny3 Skybox.mat
+  artifactKey: Guid(53412155bc1016547b1a77b2333c0380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Sunny3 Skybox.mat using Guid(53412155bc1016547b1a77b2333c0380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a72ce2dcc958141e32508ea8633b2c') in 0.297114 seconds 
+  Import took 0.313157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.485703 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures
+  artifactKey: Guid(0d6bc2dff5b0f0b4fbb4b0fb0d27c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures using Guid(0d6bc2dff5b0f0b4fbb4b0fb0d27c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb7d3bd29b9c1cddda2c8c0c73a7076') in 0.017433 seconds 
+  Import took 0.026115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.780559 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3
+  artifactKey: Guid(a515e39732d0f4647a052b788e4ad3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3 using Guid(a515e39732d0f4647a052b788e4ad3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9791126cb2829d40b4c0e136fb90db8e') in 0.019515 seconds 
+  Import took 0.026401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106573 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_back.tif
+  artifactKey: Guid(68287fe10cd30434b9c21ff1c55f613f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_back.tif using Guid(68287fe10cd30434b9c21ff1c55f613f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f56114217d8e61ad39d104f0c9044b6') in 0.136524 seconds 
+  Import took 0.152820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000963 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_left.tif
+  artifactKey: Guid(7a3134e5f9749c449ad2289cfe93f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_left.tif using Guid(7a3134e5f9749c449ad2289cfe93f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c08b83521a2f6c83682fa94435c35d3') in 0.068763 seconds 
+  Import took 0.095694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_right.tif
+  artifactKey: Guid(e349c3f4b36417b48b65112d7bd0b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_right.tif using Guid(e349c3f4b36417b48b65112d7bd0b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea01bd21425a130f54c2b4999d155b04') in 0.175250 seconds 
+  Import took 0.185140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_up.tif
+  artifactKey: Guid(05f6c978afe090d4d8f0af42a61bbe7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_up.tif using Guid(05f6c978afe090d4d8f0af42a61bbe7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161078a0eb1b58a0a3cd5d7b98803ad9') in 0.049153 seconds 
+  Import took 0.084088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif
+  artifactKey: Guid(a6c23ad66d37f0e4c8c86d7c5293ac7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif using Guid(a6c23ad66d37f0e4c8c86d7c5293ac7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ea458860e3b93b3407c662bef653d4') in 0.083034 seconds 
+  Import took 0.089683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_down.tif
+  artifactKey: Guid(e3e214f8620f35a4cb4e415a4b8c19cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_down.tif using Guid(e3e214f8620f35a4cb4e415a4b8c19cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71adb5b6ded1ddf6d1e461dbec913473') in 0.057170 seconds 
+  Import took 0.062813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.227466 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Materials
+  artifactKey: Guid(45cbdf4e8c34ab3478c5573a1c8fb38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Materials using Guid(45cbdf4e8c34ab3478c5573a1c8fb38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32eeb431362f03e307ea7f02af462edd') in 0.013622 seconds 
+  Import took 0.032756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049585 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Materials/Sunny3_back.mat
+  artifactKey: Guid(c487659fe89e63d4ba40e4df50709e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Skyboxes/Textures/Sunny3/Materials/Sunny3_back.mat using Guid(c487659fe89e63d4ba40e4df50709e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57042682ddd106b3e1991e3e651aa75b') in 0.144847 seconds 
+  Import took 0.154484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.285658 seconds.
+  path: Assets/Destroyed_city_FREE/Trees
+  artifactKey: Guid(4bf82aa2d9e2a3a468d12269b911944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees using Guid(4bf82aa2d9e2a3a468d12269b911944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234329b6aacbb0257845d25cef988769') in 0.018954 seconds 
+  Import took 0.024579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.246179 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Materials
+  artifactKey: Guid(ed8a136270d0f3d46892878343a6d3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Materials using Guid(ed8a136270d0f3d46892878343a6d3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecae13d0a1fc5657f2144fc175ac7a66') in 0.012588 seconds 
+  Import took 0.028868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054038 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Materials/TreeBark_3.mat
+  artifactKey: Guid(52b41f045d3d98344bff10ccf483ea8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Materials/TreeBark_3.mat using Guid(52b41f045d3d98344bff10ccf483ea8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09b5987b93070b345f471db8abc6da8') in 0.553087 seconds 
+  Import took 0.558586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Materials/TreeLeaf_2.mat
+  artifactKey: Guid(b2fc062b61babb14ba162c3adbc527f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Materials/TreeLeaf_2.mat using Guid(b2fc062b61babb14ba162c3adbc527f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9958d3573871d9b841c4d8b23607d809') in 0.481170 seconds 
+  Import took 0.486275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Materials/TreeBark_4.mat
+  artifactKey: Guid(060a056fe84af6e47be704ddc08b1294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Materials/TreeBark_4.mat using Guid(060a056fe84af6e47be704ddc08b1294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129c97192366f83600bc869655b5a67a') in 0.049723 seconds 
+  Import took 0.054535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.481469 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs
+  artifactKey: Guid(37faf33b8ac7bc64b88ebd0160e994b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs using Guid(37faf33b8ac7bc64b88ebd0160e994b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f35779549eb772ebb9b89618a85256') in 0.009448 seconds 
+  Import took 0.015825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121211 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A.prefab
+  artifactKey: Guid(08170dd4d8d521f49a99199199f35808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A.prefab using Guid(08170dd4d8d521f49a99199199f35808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef526cdedd3baf8a2ac4a6d21da22189') in 0.499565 seconds 
+  Import took 0.509586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01.prefab
+  artifactKey: Guid(6e6f4b2fae88c514c9fe54b33a00e51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01.prefab using Guid(6e6f4b2fae88c514c9fe54b33a00e51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7803061276d6ba6b29a1e8f78d26e614') in 0.095369 seconds 
+  Import took 0.101267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09.prefab
+  artifactKey: Guid(4a8060f5ff8cf6d449db1a220601398e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09.prefab using Guid(4a8060f5ff8cf6d449db1a220601398e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d93b315376e17e9dbc9857c9d7be72') in 0.110909 seconds 
+  Import took 0.116430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B.prefab
+  artifactKey: Guid(91a5828b0d87cc048be91599336fea93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B.prefab using Guid(91a5828b0d87cc048be91599336fea93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7191d2b3c6f70e9722a3121de371879d') in 0.089509 seconds 
+  Import took 0.095300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.420228 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures
+  artifactKey: Guid(8a63c82384154fe43a1ea6b74296b19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures using Guid(8a63c82384154fe43a1ea6b74296b19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7e579c2b502a1cc51f3c6a4b6ff855') in 0.022706 seconds 
+  Import took 0.029442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064891 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/diffuse.png
+  artifactKey: Guid(2bca1b7a12a8d024ea32d6fc70e3f97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/diffuse.png using Guid(2bca1b7a12a8d024ea32d6fc70e3f97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d4294756f57ef024a7bd7d2825b6a0') in 0.031790 seconds 
+  Import took 0.063893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000667 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/normal_specular.png
+  artifactKey: Guid(1c61d6d77b105064db38e1ebb757ac26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/normal_specular.png using Guid(1c61d6d77b105064db38e1ebb757ac26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a8e41a64788d95553243627d6acf28') in 0.044233 seconds 
+  Import took 0.050036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/shadow.png
+  artifactKey: Guid(d778f9ed6a33e1545815c536b001b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/shadow.png using Guid(d778f9ed6a33e1545815c536b001b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13ad9ca99c0f9475765aa1f14faef52') in 0.055838 seconds 
+  Import took 0.060872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/translucency_gloss.png
+  artifactKey: Guid(7c67d9128f1b56042990d6a6f54afb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/translucency_gloss.png using Guid(7c67d9128f1b56042990d6a6f54afb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f72046b6e03ca352e5fa1a1a577027') in 0.037056 seconds 
+  Import took 0.045159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.963750 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/Materials
+  artifactKey: Guid(c0ace08ed954e644fb378379e4fca4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/Materials using Guid(c0ace08ed954e644fb378379e4fca4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274769237d6d6f51db985dae526fc1a8') in 0.009454 seconds 
+  Import took 0.016029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060684 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/Materials/diffuse.mat
+  artifactKey: Guid(b31b4d8e289e34144a6e95f4112771df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_A_Textures/Materials/diffuse.mat using Guid(b31b4d8e289e34144a6e95f4112771df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99f12199ff8f4d579c07be70011fa88') in 0.028358 seconds 
+  Import took 0.033920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.394419 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/diffuse.png
+  artifactKey: Guid(70c62530657735b4181f24e1bfa53599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/diffuse.png using Guid(70c62530657735b4181f24e1bfa53599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfaf7856d94b2e73b4739ff3b8b4ecb') in 0.021685 seconds 
+  Import took 0.027609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/shadow.png
+  artifactKey: Guid(efdfaaec4e7f1804db549cbdcfa52550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/shadow.png using Guid(efdfaaec4e7f1804db549cbdcfa52550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6522b11ed77aa7953f01ff4e0d9f710') in 0.043568 seconds 
+  Import took 0.047885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/normal_specular.png
+  artifactKey: Guid(793135570d0fd754d8ea8f503ec95966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/normal_specular.png using Guid(793135570d0fd754d8ea8f503ec95966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8910d090c7d7daf1ae4bfe68df77dbaf') in 0.039195 seconds 
+  Import took 0.048570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/translucency_gloss.png
+  artifactKey: Guid(8bf7a02df46752040a1f614258c92da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Bush_B_Textures/translucency_gloss.png using Guid(8bf7a02df46752040a1f614258c92da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bef031a18e9f18abcf2bd09980e592c') in 0.042291 seconds 
+  Import took 0.049127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.279073 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/diffuse.png
+  artifactKey: Guid(c0089478ddbc85f44b7391869f0208c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/diffuse.png using Guid(c0089478ddbc85f44b7391869f0208c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a8816784cce682a8a279178b26d618') in 0.032689 seconds 
+  Import took 0.040719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/shadow.png
+  artifactKey: Guid(87139519be2ee0b439c986824046c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/shadow.png using Guid(87139519be2ee0b439c986824046c4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4be6b9cd873d22dc7ab1d79b99f2bc') in 0.045841 seconds 
+  Import took 0.054121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/translucency_gloss.png
+  artifactKey: Guid(39b889102aad6284983a5e6aee732b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/translucency_gloss.png using Guid(39b889102aad6284983a5e6aee732b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e265fffe20debf7478ff39d647429c04') in 0.069064 seconds 
+  Import took 0.075573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/normal_specular.png
+  artifactKey: Guid(55b16c7b193d7604abdde33c66de6387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_01_Textures/normal_specular.png using Guid(55b16c7b193d7604abdde33c66de6387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5058775dcfa44cf212d899b05440881e') in 0.084348 seconds 
+  Import took 0.090371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.481158 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/diffuse.png
+  artifactKey: Guid(c859021b5e814fc4cb3697ab429c6fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/diffuse.png using Guid(c859021b5e814fc4cb3697ab429c6fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a640ea2f67cb66a2891d01ea9b630ddd') in 0.025063 seconds 
+  Import took 0.093179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001048 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/normal_specular.png
+  artifactKey: Guid(64eb5773b4cf6b542907384302d076e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/normal_specular.png using Guid(64eb5773b4cf6b542907384302d076e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae3b25a0d116cb70787113d5ed7f712') in 0.105212 seconds 
+  Import took 0.117195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/translucency_gloss.png
+  artifactKey: Guid(9345f4500762ce4408f066d36a6ac59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/translucency_gloss.png using Guid(9345f4500762ce4408f066d36a6ac59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d68b77b6d5cb969a47a1f0a43b778') in 0.029219 seconds 
+  Import took 0.040619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000784 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/shadow.png
+  artifactKey: Guid(6ef60b71714146f41ad0338eac240f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/shadow.png using Guid(6ef60b71714146f41ad0338eac240f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec76c163108688da25fb7a39b095dcb1') in 0.043076 seconds 
+  Import took 0.052184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.186589 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/Materials
+  artifactKey: Guid(3d3b0d399598a5e4b8a1c02dd8453dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/Materials using Guid(3d3b0d399598a5e4b8a1c02dd8453dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfe73d38c1a80aae4654b3f85ecc9ad') in 0.010017 seconds 
+  Import took 0.016418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068780 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/Materials/normal_specular.mat
+  artifactKey: Guid(a7d88420569a94f40a02b7ca146ca0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Prefabs/Tree_09_Textures/Materials/normal_specular.mat using Guid(a7d88420569a94f40a02b7ca146ca0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17593991ee4326e17752882a17dadedf') in 0.029477 seconds 
+  Import took 0.034298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.832400 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/grassHR2 02.mat
+  artifactKey: Guid(b1722e38fa329ba40b97c96b615b2d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/grassHR2 02.mat using Guid(b1722e38fa329ba40b97c96b615b2d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadd15442e5e23e37a0b0534467e99c7') in 0.068537 seconds 
+  Import took 0.075349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.787660 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_3.psd
+  artifactKey: Guid(d47533f5c5d5e4d4787a3121180480df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_3.psd using Guid(d47533f5c5d5e4d4787a3121180480df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8178d9a0006533f1f018d71c1f9ff4') in 0.031312 seconds 
+  Import took 0.036638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2_b.psd
+  artifactKey: Guid(c0a790b636be87d4d9319c798a3ab353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2_b.psd using Guid(c0a790b636be87d4d9319c798a3ab353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e0c09c59a3eb0aa90cff3b9d6bbdaa') in 0.043314 seconds 
+  Import took 0.047766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2.psd
+  artifactKey: Guid(766f5cebf418a3449a819f0b7b38ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2.psd using Guid(766f5cebf418a3449a819f0b7b38ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5b681c3a88d585dce39566f81b2f1d') in 0.041793 seconds 
+  Import took 0.047475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_3_b.jpg
+  artifactKey: Guid(98791f8405f0c5d45a7591aaee932857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_3_b.jpg using Guid(98791f8405f0c5d45a7591aaee932857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65af0cdc53aec02b7e94abf35a6f392') in 0.041202 seconds 
+  Import took 0.049004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_4_b.jpg
+  artifactKey: Guid(e1187bbaecc41424f833ea0e6de417f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_4_b.jpg using Guid(e1187bbaecc41424f833ea0e6de417f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a1c3d4982629692e8597019cc3e4de') in 0.048744 seconds 
+  Import took 0.053331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2_g.psd
+  artifactKey: Guid(70fd3401474ec8b4da842d88b8466cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeLeaf_2_g.psd using Guid(70fd3401474ec8b4da842d88b8466cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4a20d3f45fef7fb0e871742236c358') in 0.044337 seconds 
+  Import took 0.050958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_4.psd
+  artifactKey: Guid(a11f471570ee65442be241bdf31a51a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Trees/Textures/TreeBark_4.psd using Guid(a11f471570ee65442be241bdf31a51a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21acdca686482c498eb8a7b759a1ac03') in 0.038810 seconds 
+  Import took 0.044179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.147471 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697b748b54a855b9a39b52d682e5091e') in 0.092764 seconds 
+  Import took 0.099038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.699058 seconds.
+  path: Assets/Destroyed_city_FREE/Materials/otrepy.mat
+  artifactKey: Guid(e39ebdb4abcc1df4a9afa2ffd266260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Materials/otrepy.mat using Guid(e39ebdb4abcc1df4a9afa2ffd266260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da8a7a9bcc05b7cb3c1e106bde1e1db') in 0.026345 seconds 
+  Import took 0.032252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.776848 seconds.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(13ea9ec937e69d14e8a2ffeafa92f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(13ea9ec937e69d14e8a2ffeafa92f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a815fa35827488ddca48a221c1ba36') in 0.018577 seconds 
+  Import took 0.024105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.663200 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_city.unity
+  artifactKey: Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_city.unity using Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa204f7a255bc66587f6a0f180154ab1') in 0.009196 seconds 
+  Import took 0.018568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.690774 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/destroyed_citySettings.lighting
+  artifactKey: Guid(9c8c54cff7f55e643a33218dec3b8372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/destroyed_citySettings.lighting using Guid(9c8c54cff7f55e643a33218dec3b8372) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '772f99f5d50be03db7a5aa02eb6d74b3') in 0.050467 seconds 
+  Import took 0.066657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.943168 seconds.
+  path: Assets/Destroyed_city_FREE/Standard Assets/Water (Pro Only)/Daylight Water.prefab
+  artifactKey: Guid(780611a67e8e941a2b3aa96e5915a793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Standard Assets/Water (Pro Only)/Daylight Water.prefab using Guid(780611a67e8e941a2b3aa96e5915a793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf3ea56b38f9f8345ce200cd469509c') in 0.058639 seconds 
+  Import took 0.071348 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.420 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2421ms)
+		BeginReloadAssembly (434ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (223ms)
+		EndReloadAssembly (1812ms)
+			LoadAssemblies (228ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (632ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (678ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (517ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 8.874500 ms (FindLiveObjects: 0.427500 ms CreateObjectMapping: 0.229100 ms MarkObjects: 8.175300 ms  DeleteObjects: 0.039700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 291.446708 seconds.
+  path: Assets/Destroyed_city_FREE/Scenes/SceneOnandi.unity
+  artifactKey: Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Destroyed_city_FREE/Scenes/SceneOnandi.unity using Guid(dab52a771d551ca40930496e8e13757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5e06ba31e7ba78729aa0d3dba160d8') in 0.074974 seconds 
+  Import took 0.084363 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.604 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2605ms)
+		BeginReloadAssembly (295ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (24ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (2141ms)
+			LoadAssemblies (305ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (766ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (119ms)
+			SetupLoadedEditorAssemblies (719ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (528ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2005.
+Total: 9.982600 ms (FindLiveObjects: 0.538200 ms CreateObjectMapping: 0.502100 ms MarkObjects: 8.896000 ms  DeleteObjects: 0.043400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011014 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.926 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2927ms)
+		BeginReloadAssembly (314ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (67ms)
+		EndReloadAssembly (2478ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1061ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (815ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (632ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 7.259500 ms (FindLiveObjects: 0.421000 ms CreateObjectMapping: 0.217500 ms MarkObjects: 6.573700 ms  DeleteObjects: 0.044900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.579 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2581ms)
+		BeginReloadAssembly (319ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (90ms)
+		EndReloadAssembly (2109ms)
+			LoadAssemblies (239ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (744ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (94ms)
+			SetupLoadedEditorAssemblies (819ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (641ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1484 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2009.
+Total: 66.356200 ms (FindLiveObjects: 13.380000 ms CreateObjectMapping: 11.908800 ms MarkObjects: 40.931100 ms  DeleteObjects: 0.133100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
