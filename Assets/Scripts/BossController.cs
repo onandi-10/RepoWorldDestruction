@@ -15,7 +15,7 @@ public class BossController : MonoBehaviour
     void Start()
     {
         ani = GetComponent<Animator>();
-        target = gameObject.Find("Player");
+       // target = gameObject.Find("Player");
     }
 
     public void comportamientoEnemigo()
