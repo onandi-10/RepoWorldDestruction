@@ -38,4 +38,10 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("Inicio");
     }
+
+    public void perder()
+    {
+
+    }
+
 }

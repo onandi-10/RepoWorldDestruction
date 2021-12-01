@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Abraham.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EscenaCarlos.unity
+    guid: de65275518c7be0498325f072f9541f6
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFAFinal.unity"
+    guid: ea6234f952d160b4fa0515b7c390afe3
   m_configObjects: {}
