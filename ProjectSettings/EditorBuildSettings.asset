@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Abraham.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/SceneOnandi.unity
+    guid: dab52a771d551ca40930496e8e13757a
+  - enabled: 1
     path: Assets/Scenes/EscenaCarlos.unity
     guid: de65275518c7be0498325f072f9541f6
   - enabled: 1
