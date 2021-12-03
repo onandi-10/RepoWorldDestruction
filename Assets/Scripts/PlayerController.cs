@@ -61,7 +61,7 @@ public class PlayerController : MonoBehaviour
 
         //Control Rotacion Camara
 
-        Vector2 mouseInput = new Vector2(Input.GetAxisRaw("Mouse X"), Input.GetAxisRaw("Mouse Y"));
+        Vector2 mouseInput = new Vector2(-Input.GetAxisRaw("Mouse X"), Input.GetAxisRaw("Mouse Y"));
 
         transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles + new Vector3(0f, -mouseInput.x, 0f));
         //camTrans.rotation = Quaternion.Euler(camTrans.rotation.eulerAngles + new Vector3(-mouseInput.y, 0f, 0f));
