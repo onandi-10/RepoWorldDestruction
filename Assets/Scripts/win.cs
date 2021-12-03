@@ -12,7 +12,7 @@ public class win : MonoBehaviour
     {
         if (collision.transform.CompareTag("Player"))
         {
-            SceneManager.LoadScene("MenúFinal");
+            SceneManager.LoadScene("SceneOnandi");
         }
     }
     // Start is called before the first frame update
